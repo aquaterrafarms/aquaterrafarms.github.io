@@ -39,7 +39,7 @@ Disponible dans les 58 wilayas.
 
 **Instructions**
 
-Dans le kit de 1L, vous receverez une bouteille de 0.5 L contenant de la Chlorella (eau verte).
+Dans le kit de 1L, vous receverez une bouteille supplémentaire de 0.5 L contenant de la Chlorella (eau verte).
 
 - Versez la Chlorella dans un bac d'eau et mettez le tout au soleil ou bien sous une lanmpe 6500 kelvins pour une période de 6h par jour.
 - Versez de l'eau de votre aquarium dans un bac puis versez les daphnia dedans. 
