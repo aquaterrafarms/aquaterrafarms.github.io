@@ -35,3 +35,19 @@ Grande (1.5 L) : 750 DA.
 **Livraison**
 
 Disponible dans les 58 wilayas.
+
+
+**Instructions**
+
+Dans le kit de 1L, vous receverez une bouteille de 0.5 L contenant de la Chlorella (eau verte).
+
+- Versez la Chlorella dans un bac d'eau et mettez le tout au soleil ou bien sous une lanmpe 6500 kelvins pour une période de 6h par jour.
+- Versez de l'eau de votre aquarium dans un bac puis versez les daphnia dedans. 
+- (Optionnel) Placez quelques plantes dans le bac de daphnia pour absorber l'azote et les nitrates.
+
+Les daphnias vont se reproduire dans les jours qui suivent.
+
+Pour les nourrire, versez une quantité d'eau verte dans le bac de daphnias. Les daphnia vont consommer l'eau verte jusqu'à ce que l'eau devienne à nouveau claire.
+À chaque fois que l'eau des daphnia redevient claire, versez une autre quantité d'eau verte dans le bac.
+
+C'est tout ce qu'il y a à faire pour cultiver les daphnias.
