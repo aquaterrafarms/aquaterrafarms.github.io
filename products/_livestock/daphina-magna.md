@@ -47,7 +47,7 @@ Dans le kit de 1L, vous receverez une bouteille supplémentaire de 0.5 L contena
 
 Les daphnias vont se reproduire dans les jours qui suivent.
 
-Pour les nourrire, versez une quantité d'eau verte dans le bac de daphnias. Les daphnia vont consommer l'eau verte jusqu'à ce que l'eau devienne à nouveau claire.
+Pour les nourrir, versez une quantité d'eau verte dans le bac de daphnias. Les daphnia vont consommer l'eau verte jusqu'à ce que l'eau devienne à nouveau claire.
 À chaque fois que l'eau des daphnia redevient claire, versez une autre quantité d'eau verte dans le bac.
 
 C'est tout ce qu'il y a à faire pour cultiver les daphnias.
