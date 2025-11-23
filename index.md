@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Aqua Store Pro
+title: Aqua Terra Farms
 ---
 
-Bienvenue sur **Aqua-Store Pro!** Votre fournisseur de plantes, nourritures vivantes et tout ce qui se rapporte à l'aquariophilie.
+Bienvenue sur **Aqua-Terra-Farms!** Votre fournisseur de plantes, nourritures vivantes et tout ce qui se rapporte à l'aquariophilie.
 
 Vous trouverez notre sélection de produits dans le menu.

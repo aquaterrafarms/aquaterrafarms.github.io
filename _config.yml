@@ -1,10 +1,10 @@
-title: Aqua Store Pro
+title: Aqua Terra Farms
 logo: /assets/img/original_logo-removebg-preview.png
 description: Plants, live food and everything fishkeeping
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
-author: aquastorepro
+author: aquaterrafarms
 collections_dir: products
 collections:
   livestock:

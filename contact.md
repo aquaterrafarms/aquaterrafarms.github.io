@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aqua Store Pro
+title: Aqua Terra Farms
 ---
 
 <ul><li><a href="{{ site.url }}">Back</a></li></ul>
